@@ -135,5 +135,4 @@ Lemmatization is a crucial step in CodeCompass's recommendation system, transfor
 
 - Return the response JSON object (`response_data`) as the result of the API call.
   
-# Results 
-![screencapture-localhost-3000-2023-11-25-17_26_28](https://github.com/alhussain-shaikh/CodeCompass/assets/116242196/95f8db78-90da-46ce-84bc-a0a62a84628a)
+
